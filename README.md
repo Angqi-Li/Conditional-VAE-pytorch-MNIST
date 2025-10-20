@@ -94,13 +94,6 @@ train_conditional_data = torch.cat([train_images_flat, train_labels_onehot], dim
 4. **TensorFlow MNIST VAE** - hwalsuklee (github): 
    https://github.com/hwalsuklee/tensorflow-mnist-VAE
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⭐ Star History
 
