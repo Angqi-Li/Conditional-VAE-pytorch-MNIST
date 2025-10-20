@@ -18,8 +18,8 @@ A **Conditional Variational AutoEncoder (CVAE)** implementation for MNIST digit 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pytorch-mnist-conditional-vae.git
-cd pytorch-mnist-conditional-vae
+git clone https://github.com/Angqi-Li/Conditional-VAE-pytorch-MNIST.git
+cd Conditional-VAE-pytorch-MNIST
 
 # Install dependencies
 pip install torch torchvision numpy matplotlib
